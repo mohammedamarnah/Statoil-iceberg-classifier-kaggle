@@ -1,2 +1,5 @@
 .DS_Store
-dataset/
+dataset
+*.hdf5
+submissions
+*.ipynb_checkpoints
